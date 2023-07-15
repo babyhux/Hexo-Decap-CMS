@@ -2,5 +2,8 @@
 title: 关于
 layout: about
 ---
+这是一个个人博客,记录一些有的没得
 
-这是一个演示博客,欢迎登陆[管理页](/admin/)查看并实际体验效果
+模板来自<https://hexo.fluid-dev.com/>
+
+感谢
