@@ -1,5 +1,5 @@
 navbar:
-  blog_title: 演示站点
+  blog_title: 个人记录站点。保存一些文章。
   ground_glass:
     enable: true
 index:
