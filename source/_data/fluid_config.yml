@@ -12,19 +12,19 @@ post:
   banner_img_height: 70
   default_index_img: /images/uploads/喜报.jpg
 archive:
-  banner_img: /images/uploads/1616421595370-wallhaven-q6ov7d.jpg
+  banner_img: /images/uploads/netlify背景.jpg
   banner_img_height: 80
   subtitle: null
 category:
-  banner_img: /images/uploads/1616421818281-wallhaven-zm93dj.jpg
+  banner_img: /images/uploads/netlify背景.jpg
   banner_img_height: 80
   subtitle: null
 tag:
-  banner_img: /images/uploads/1616421669417-wallhaven-1kkm2g.jpg
+  banner_img: /images/uploads/netlify背景.jpg
   banner_img_height: 80
   subtitle: null
 about:
-  banner_img: /images/uploads/wallhaven-pkkr2.webp
+  banner_img: /images/uploads/netlify背景.jpg
   banner_img_height: 80
   subtitle: null
   avatar: /img/avatar.png
